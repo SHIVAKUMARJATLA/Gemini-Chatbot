@@ -6,17 +6,15 @@ This is a simple terminal-based chatbot built using the Gemini API (`gemini-2.0-
 - Clean `.env`-based API key setup
 - Easy to run and modify
 🛠️ Setup Instructions
-1. Clone the Repository
 
+1. Clone the Repository
 git clone [https://github.com/your-username/gemini-chatbot.git](https://github.com/SHIVAKUMARJATLA/Gemini-Chatbot.git)
 cd Gemini-Chatbot
 
+
 2. Install Dependencies
-
 pip install -r requirements.txt
-
-Your `requirements.txt` should include:
-
+requirements.txt
 google-generativeai
 python-dotenv
 
