@@ -1,5 +1,6 @@
 🤖 Gemini Chatbot (Google Generative AI)
 This is a simple terminal-based chatbot built using the Gemini API (`gemini-2.0-flash` model). It allows you to interact with Google's Generative AI through your terminal using Python.
+
 🚀 Features
 - Uses Google Generative AI (`gemini-2.0-flash`)
 - Interactive terminal chatbot
@@ -9,6 +10,7 @@ This is a simple terminal-based chatbot built using the Gemini API (`gemini-2.0-
 
 1. Clone the Repository
 git clone [https://github.com/your-username/gemini-chatbot.git](https://github.com/SHIVAKUMARJATLA/Gemini-Chatbot.git)
+
 cd Gemini-Chatbot
 
 
