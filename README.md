@@ -9,7 +9,7 @@ This is a simple terminal-based chatbot built using the Gemini API (`gemini-2.0-
 🛠️ Setup Instructions
 
 1. Clone the Repository
-    git clone [https://github.com/your-username/gemini-chatbot.git](https://github.com/SHIVAKUMARJATLA/Gemini-Chatbot.git)
+    git clone: https://github.com/SHIVAKUMARJATLA/Gemini-Chatbot.git
 
     cd Gemini-Chatbot
 
